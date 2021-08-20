@@ -27,6 +27,8 @@ class AFightingGameCharacter : public ACharacter
     void StartAttack4();
     void TakeDamage2();
     
+    int testInt;
+    
     
     
     
