@@ -106,8 +106,6 @@ void AFightingGameCharacter::StartAttack1(){
     wasFirstAttackUsed=true;
     
     
-    
-}
 
 void AFightingGameCharacter::StartAttack2(){
     
@@ -130,7 +128,6 @@ void AFightingGameCharacter::StartAttack4(){
     UE_LOG(LogTemp,Warning,TEXT("We are using out fourth attack"));
     
     TakeDamage2(0.05f);
-    
     
     
 }
