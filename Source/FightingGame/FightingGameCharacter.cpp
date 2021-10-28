@@ -105,7 +105,7 @@ void AFightingGameCharacter::StartAttack1(){
     UE_LOG(LogTemp,Warning,TEXT("We are using out first attack"));
     wasFirstAttackUsed=true;
     
-    
+}
 
 void AFightingGameCharacter::StartAttack2(){
     
