@@ -102,7 +102,7 @@ void AFightingGameCharacter::TouchStopped(const ETouchIndex::Type FingerIndex, c
 
 void AFightingGameCharacter::StartAttack1(){
     
-    UE_LOG(LogTemp,Warning,TEXT("We are using out first attack"));
+    UE_LOG(LogTemp,Warning,TEXT("We are using out first !!!!!!!!!!!! attack"));
     wasFirstAttackUsed=true;
     
 }
