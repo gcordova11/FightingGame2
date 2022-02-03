@@ -109,7 +109,7 @@ void AFightingGameCharacter::StartAttack1(){
 
 void AFightingGameCharacter::StartAttack2(){
     
-    UE_LOG(LogTemp,Warning,TEXT("We are using out second attack"));
+    UE_LOG(LogTemp,Warning,TEXT("We are using out second!!!!!!!!!!! attack"));
     wasSecondAttackUsed=true;
     
     
